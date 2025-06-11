@@ -9,7 +9,7 @@ params:
 
   socialIcons: # optional
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/andrew/"
+      url: "https://www.linkedin.com/in/aifernando/"
   
   fuseOpts:
     isCaseSensitive: false
