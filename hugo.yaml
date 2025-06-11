@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://iam.onthejourney.online/
 languageCode: en-us
-title: My New Hugo Site
+title: IAM onthejourney
 theme: ["PaperMod"]
 params:
   homeInfoParams:
